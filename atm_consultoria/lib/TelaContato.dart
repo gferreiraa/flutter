@@ -12,7 +12,7 @@ class _TelaContatoState extends State<TelaContato> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         title: Text("Contato"),
-        backgroundColor: Colors.deepPurple,
+        backgroundColor: Color.fromRGBO(66, 165, 245, 1.0)
       ),
       body: SingleChildScrollView(
         child: Container(
